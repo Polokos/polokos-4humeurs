@@ -1,0 +1,25 @@
+{
+  "name": "Les 4 Humeurs — Polokos",
+  "short_name": "Polokos",
+  "description": "Questionnaire de détermination du tempérament selon Hippocrate",
+  "start_url": "./questionnaire_4_humeurs.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#005f6b",
+  "theme_color": "#00bcd4",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
